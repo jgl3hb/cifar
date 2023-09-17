@@ -1,0 +1,3 @@
+NVIDA 535
+CUDA 11.8
+Tensorflow
